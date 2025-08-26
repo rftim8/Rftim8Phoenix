@@ -1,0 +1,8 @@
+2
+3
+["amazon","apple","facebook","google","leetcode"]
+["e","o"]
+["facebook","google","leetcode"]
+["amazon","apple","facebook","google","leetcode"]
+["l","e"]
+["apple","google","leetcode"]

@@ -1,0 +1,10 @@
+2
+4
+abc
+abb
+ab
+2
+dac
+bac
+cac
+-1

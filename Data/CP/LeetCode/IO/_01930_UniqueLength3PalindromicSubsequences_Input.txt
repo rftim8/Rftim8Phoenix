@@ -1,0 +1,8 @@
+3
+2
+aabca
+3
+adc
+0
+bbcbaba
+4

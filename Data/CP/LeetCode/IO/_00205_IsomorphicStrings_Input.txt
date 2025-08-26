@@ -1,0 +1,11 @@
+3
+3
+egg
+add
+true
+foo
+bar
+false
+paper
+title
+true
